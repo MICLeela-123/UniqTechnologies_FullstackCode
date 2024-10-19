@@ -8,6 +8,7 @@ let lastName = "Johnson";
 // Booleans
 let x = true;
 let y = false;
+let z=true;
 
 // Object:
 const person = {firstName:"John", lastName:"Doe",middleName:"newly modified"};
