@@ -10,7 +10,7 @@ let x = true;
 let y = false;
 
 // Object:
-const person = {firstName:"John", lastName:"Doe"};
+const person = {firstName:"John", lastName:"Doe",middleName:"newly modified"};
 
 // Array object:
 const cars = ["Saab", "Volvo", "BMW"];
